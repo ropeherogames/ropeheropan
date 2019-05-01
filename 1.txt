@@ -1,1 +1,1 @@
-spider.stickman.gta.gtastickman.city.crime
+com.miamipolice.mafia.crime.vice.town
